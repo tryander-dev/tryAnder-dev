@@ -40,6 +40,26 @@
 
 ---
 
+## ⚡ tech stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+</p>
+
+---
+
 ## ⚡ what i can do
 
 - build games in Unity  
@@ -64,8 +84,8 @@
 <details>
   <summary>telegram bots</summary>
 
-- @qrlink1_bot — qr generator  
-- @weatherlarm_bot — weather alerts  
+- @qrlink1_bot - qr generator  
+- @weatherlarm_bot - weather alerts  
 
 </details>
 
@@ -90,5 +110,5 @@
 ---
 
 <p align="center">
-  <i>if you're reading this — maybe we should build something together</i>
+  <i>if you're reading this - maybe we should build something together</i>
 </p>
