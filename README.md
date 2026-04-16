@@ -1,7 +1,7 @@
 <!-- banner / vibe -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ba3efe13-c70c-4890-87c1-fbb0b18526b1" width="10%"/>
+  <img src="https://github.com/user-attachments/assets/ba3efe13-c70c-4890-87c1-fbb0b18526b1" width="20%"/>
 </p>
 
 <h1 align="center">hey, i'm alexander (tryander)</h1>
