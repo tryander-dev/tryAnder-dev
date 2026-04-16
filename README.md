@@ -82,7 +82,7 @@
 ## 🧩 micro stuff
 
 <details>
-  <summary>telegram bots</summary>
+  <summary>telegram bots < | click btw </summary>
 
 - @qrlink1_bot - qr generator  
 - @weatherlarm_bot - weather alerts  
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-  <summary>random facts</summary>
+  <summary>random facts < | also click </summary>
 
 - can lock in for 16 hours if there’s flow  
 - interested in how hardware actually works  
