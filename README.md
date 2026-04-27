@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 web stuff
+## 🌐 web stuff | I HAVE SOME THROUBLES WITH MY SERVER, SO HALF OF THAT CAN NOT WORK!
 
 <div align="center">
 
